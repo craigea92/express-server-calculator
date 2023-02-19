@@ -34,3 +34,9 @@ localhost:3000/bmicalculator
 - 3** Go Away
 - 4** You Messed Up
 - 5** I Messed Up
+
+## HTTP vs HTTPs
+HTTPS is more secure than HTTP because it uses encryption to protect information as it is being sent between clients and servers. When an organization enables HTTPS, any information you transmit, like passwords or credit card numbers, will be difficult for anyone to intercept.
+
+## TLS (Transport Layer Security)
+TLS is a cryptographic protocol that provides end-to-end security of data sent between applications over the Internet. It is mostly familiar to users through its use in secure web browsing, and in particular the padlock icon that appears in web browsers when a secure session is established.
