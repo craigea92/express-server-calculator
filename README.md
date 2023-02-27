@@ -1,5 +1,13 @@
 # Express Server BMI Calculator
 
+## Project Description
+
+Throughout my professional career, my focus has primarily been on frontend libraries and frameworks such as React. However, with an eye toward the future, I desired to expand my skillset and enhance my backend knowledge by delving deeper into node and express. To achieve this, I embarked on a project to develop a straightforward BMI calculator utilizing express and javascript.
+
+During the course of this project, I encountered challenges that were similar to those I had faced previously, including navigating the intricacies of get and post requests. This experience underscored for me the importance of consistently applying one's knowledge as a developer, as failure to do so can result in forgetting critical pieces of information. Fortunately, given express's widespread usage, I was able to rely on the platform's extensive documentation to overcome these obstacles.
+
+While the project was primarily intended as an exercise in honing my skills, it served its purpose admirably. Although I have no plans to further develop this particular project in the future, I will carry the lessons I learned forward into future endeavors.
+
 ## Tech Stack
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
 <a href="https://nodejs.org/en/"> <img src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" alt="node.js"/> </a>
@@ -24,5 +32,5 @@ localhost:3000/bmicalculator
 - 1** Hold On
 - 2** Here You Go
 - 3** Go Away
-- 4** You Fucked Up
-- 5** I Fucked Up
+- 4** You Messed Up
+- 5** I Messed Up
